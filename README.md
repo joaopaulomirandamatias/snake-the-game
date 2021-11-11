@@ -7,7 +7,6 @@ Recriando o jogo da cobrinha com JavaScript. O objetivo foi criar um jogo usando
 
 ![Visão do Jogo](https://github.com/joaopaulomirandamatias/snake-the-game/blob/main/Jogo%20da%20Cobra.png)
 
-### Todo
 
 
 Digital Inovation One!
